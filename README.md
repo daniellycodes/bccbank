@@ -11,7 +11,7 @@ Na primeira etapa, o foco foi na concepção e elaboração do Modelo Entidade-R
 ## [Fase 2: Transformação para o Modelo Físico utilizando MySQL](https://github.com/daniellycodes/bccbank/blob/main/bccbank-schema.sql)
 Na segunda fase do projeto, concentramo-nos na transição do modelo conceitual e lógico para o modelo físico, empregando a ferramenta MySQL. Esta etapa envolveu a implementação efetiva do banco de dados, considerando as nuances específicas do MySQL. Foram aplicados os conceitos aprendidos em sala de aula para otimizar a estrutura do banco e garantir a integridade e eficiência.
 
-* [BCC Bank - Schema](https://github.com/daniellycodes/bccbank/blob/main/bccbank-schema.sql)
+* [BCC Bank - Schema](https://github.com/daniellycodes/bccbank/blob/main/code/bccbank-schema.sql)
 
 ## Consultas e Aplicação do Conteúdo Aprendido.
 Após a modelagem do banco de dados, a etapa subsequente consiste na elaboração de consultas avançadas. Utilizando as funcionalidades oferecidas pelo MySQL, exploramos e aplicamos os conceitos aprendidos em aula para criar consultas sofisticadas e eficientes. Este processo não apenas consolidou o conhecimento teórico, mas também proporcionou uma compreensão prática da importância do design de banco de dados na otimização de consultas.
