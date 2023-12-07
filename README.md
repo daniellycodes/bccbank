@@ -1,6 +1,6 @@
-# **BCC Bank**
+# BCC Bank
 
-## **Projeto de Banco de Dados I**
+## Projeto de Banco de Dados I
 
 **Descrição:**
 Neste repositório consta o projeto desenvolvido para a disciplina de Banco de Dados I no Instituto Federal de Educação, Ciência e Tecnologia do Ceará, campus Aracati. O trabalho foi dividido em duas fases distintas, refletindo o aprendizado teórico e prático adquirido ao longo do curso.
