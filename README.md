@@ -154,4 +154,11 @@ Selecione os tipos de transação bancária com as respectivas quantidades de ca
 	ORDER BY quantidade_transacoes;
 ```
 
-Este repositório serve como registro do trabalho desenvolvido ao longo do semestre, proporcionando uma visão abrangente do processo de construção e otimização de um banco de dados, desde sua concepção até a aplicação prática de consultas complexas.
+Este repositório serve como registro do trabalho desenvolvido ao longo do semestre, proporcionando uma visão abrangente do processo de construção e otimização de um banco de dados, desde sua concepção até a aplicação prática de consultas.
+
+### Equipe:
+* [Danielly](https://github.com/daniellycodes)
+* [João Pedro](https://github.com/IBliind)
+* [Nicolle](https://github.com/nicollesouza01)
+* [João Victor]
+* [Alane]
