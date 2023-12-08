@@ -160,5 +160,5 @@ Este repositório serve como registro do trabalho desenvolvido ao longo do semes
 * [Danielly](https://github.com/daniellycodes)
 * [João Pedro](https://github.com/IBliind)
 * [Nicolle](https://github.com/nicollesouza01)
-* [João Victor](https://github.com/VictorGuimaresL)
+* [João Victor](https://github.com/VictorGuimaraesL)
 * [Alane]
