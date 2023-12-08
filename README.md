@@ -147,7 +147,7 @@ Selecione o nome do cliente e a quantidade de empréstimos dos clientes que não
 Selecione os tipos de transação bancária com as respectivas quantidades de cada uma que foram realizadas entre os anos de 2022 e 2023. Ordene pela quantidade.
 
 ```
-  SELECT tipo_transacao, COUNT(*) AS quantidade_transacoes
+  	SELECT tipo_transacao, COUNT(*) AS quantidade_transacoes
 	FROM TransacaoFinanceira
 	WHERE data_transacao BETWEEN '2022-01-01' AND '2023-12-31'
 	GROUP BY tipo_transacao
