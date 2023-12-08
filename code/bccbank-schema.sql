@@ -21,8 +21,8 @@ CREATE TABLE Cliente (
 CREATE TABLE ContaCorrente (
     numero_conta VARCHAR(10) PRIMARY KEY,
     saldo DECIMAL(10, 2),
-    data_abertura DATE,
-    cpf CHAR(11) NOT NULL,
+    data_abertura DATE NOT NULL,
+    cpf CHAR(11) NOT NULL UNIQUE,
     FOREIGN KEY (cpf) REFERENCES Cliente(cpf)
 ) default charset = utf8mb4;
 
