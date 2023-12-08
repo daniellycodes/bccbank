@@ -8,6 +8,10 @@ Neste repositório consta o projeto desenvolvido para a disciplina de Banco de D
 ## Fase 1: Construção do Modelo Entidade-Relacionamento (MER) e Modelo Relacional (MR)
 Na primeira etapa, o foco foi na concepção e elaboração do Modelo Entidade-Relacionamento (MER) e, posteriormente, sua tradução para o Modelo Relacional (MR). Utilizou-se uma abordagem cuidadosa para mapear as entidades, relacionamentos e atributos, garantindo uma representação precisa e coerente do domínio do problema.
 
+<p align="center">
+  <img src="https://github.com/daniellycodes/bccbank/blob/main/images/MR.png" alt="Modelo Relacional" width="60%">
+</p>
+
 ## [Fase 2: Transformação para o Modelo Físico utilizando MySQL](https://github.com/daniellycodes/bccbank/blob/main/code/bccbank-schema.sql)
 Na segunda fase do projeto, concentramo-nos na transição do modelo conceitual e lógico para o modelo físico, empregando a ferramenta MySQL. Esta etapa envolveu a implementação efetiva do banco de dados, considerando as nuances específicas do MySQL. Foram aplicados os conceitos aprendidos em sala de aula para otimizar a estrutura do banco e garantir a integridade e eficiência.
 
