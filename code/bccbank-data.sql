@@ -20,7 +20,7 @@ VALUES
 ('83644317577', 'Letícia Carvalho', '1989-01-24', 'Avenida Presidente Costa', '758','Centro', 'Vitória', 'ES', '29070150', 'thzlet@gmail.com', '(88) 99321-2529'),
 ('78407850691', 'Breno Melo', '1984-01-26', 'Travessa Campestre', '1617','Centro', 'Ribeirão Preto', 'SP', '14060470', 'breninmel@gmail.com', '(88) 92463-4575'),
 ('84004630568', 'Murilo Ribeiro', '1988-11-20', 'Rua Paulo Tognini', '9362','Centro', 'Campo Grande', 'MS', '79050120', 'mulribeiro@gmail.com', '(67) 92453-8468'),
-('48579870402', 'Raissa Silva Almeida', '1964-04-10', 'Jornalista Guilherme Apiguaia', '1673', 'Centro', 'Belo Horizonte', 'MG', '97080587', 'RaissaSilvaAlmeida@hotmail.com', '41941643486'),
+('48579870402', 'Raissa Silva Almeida', '1964-04-10', 'Jornalista Guilherme Apiguaia', '1673', 'Centro', 'Belo Horizonte', 'MG', '97080587', 'raissasilvaalmeida@hotmail.com', '(41) 94164-3486'),
 ('73042541657', 'Aline Martins Rocha', '1982-11-25', 'Almirante Maximiano Fonseca', '8013', 'Zona Portuária', 'Rio Grande', 'RS', '96204040', 'AlineMartinsRocha@aluno.ifce.edu.br', '26939206379'),
 ('90762968630', 'Martim Melo Rodrigues', '1992-05-29', 'Barão de Vitória', '2404', 'Casa Grande', 'Diadema', 'SP', '09961660', 'MartimMeloRodrigues@gmail.com', '62959964906'),
 ('62299341404', 'Ágatha Ribeiro Araujo', '2001-07-04', 'Roberto Landell de Moura', '697', 'Centro', 'Sobral', 'CE', '62011140', 'AgathaRibeiroAraujo@aluno.ifce.edu.br', '4488944758609'),
