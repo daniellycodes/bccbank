@@ -8,6 +8,12 @@ Neste repositório consta o projeto desenvolvido para a disciplina de Banco de D
 ## Fase 1: Construção do Modelo Entidade-Relacionamento (MER) e Modelo Relacional (MR)
 Na primeira etapa, o foco foi na concepção e elaboração do Modelo Entidade-Relacionamento (MER) e, posteriormente, sua tradução para o Modelo Relacional (MR). Utilizou-se uma abordagem cuidadosa para mapear as entidades, relacionamentos e atributos, garantindo uma representação precisa e coerente do domínio do problema.
 
+### Modelo Entidade-Relacionamento:
+<p align="center">
+  <img src="https://github.com/daniellycodes/bccbank/blob/main/images/MER.jpg" alt="Modelo Relacional" width="80%">
+</p>
+
+### Modelo Relacional:
 <p align="center">
   <img src="https://github.com/daniellycodes/bccbank/blob/main/images/MR.png" alt="Modelo Relacional" width="60%">
 </p>
